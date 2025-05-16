@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 const config = {
   server: "torchville.aternos.me", // Your Aternos server address
   port: 40708, // Double-check this port in Aternos panel
-  username: "Spiderplant", // Bot's username (must be whitelisted)
+  username: "Spiderplant222", // Bot's username (must be whitelisted)
   version: "1.20.1", // Changed to 1.20.1 for better compatibility
   auth: "offline", // Using offline mode
   reconnect: true, // Enable auto-reconnect
