@@ -1,16 +1,15 @@
 {
-  "name": "nodejs",
+  "name": "minecraft-afk-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "AFK Minecraft bot using Mineflayer and Express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
+  "keywords": ["minecraft", "afk", "bot", "mineflayer", "express"],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^22.13.11",
     "express": "^5.1.0",
     "mineflayer": "^4.27.0"
   }
